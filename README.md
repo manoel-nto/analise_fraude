@@ -1,13 +1,12 @@
 ## Fraude em Transações: Uma Análise Exploratória com Apoio Estatístico
 
 ### 📑 Índice
-- [Visão geral](#visão-geral)
-- [Fonte dos dados](#fonte-de-dados)
-- [Procedimentos de análise de dados](#procedimentos-de-análise-de-dados)
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Resultados](#resultados)
-- [Conclusões e recomendações](#conclusões-e-recomendações)
-- [Referências](#referências)
+- [Visão geral](#item-one)
+- [Fonte dos dados](#item-two)
+- [Procedimentos de análise de dados](#item-three)
+- [Ferramentas utilizadas](#item-four)
+- [Resultados](#item-five)
+- [Conclusões e recomendações](#item-six)
 
 ---
 
