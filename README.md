@@ -5,7 +5,7 @@
 - [Fonte dos dados](#item-two)
 - [Procedimentos de análise de dados](#item-three)
 - [Ferramentas utilizadas](#item-four)
-- [Resultados](#item-five)
+- [Principais resultados](#item-five)
 - [Conclusões e recomendações](#item-six)
 
 ---
