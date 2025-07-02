@@ -100,7 +100,7 @@ Rejeitar a hipótese nula
 
 <!-- headings -->
 <a id='item-six'></a>
-### 📝 Conclusões e Recomendações
+### 📝 Conclusões e recomendações
 
 Neste projeto, buscou-se identificar e analisar os *principais fatores associados à ocorrência de transações fraudulentas*, com o objetivo de traçar um *perfil característico dessas fraudes*. A análise trouxe evidências que corroboram ideias amplamente aceitas na gestão de fraudes, como:
 
