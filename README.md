@@ -25,14 +25,6 @@ A partir de uma abordagem estatística, buscou-se construir um **perfil caracter
 ---
 
 <!-- headings -->
-<a id='item-two'></a>
-### 🗂️ Fonte de dados
-
-Os conjunto de dados foi obtido no PED (Preparatório para Entrevistas em Dados), da Prof.ª Renata Biaggi. Acesse: https://www.renatabiaggi.com/ped.
-
----
-
-<!-- headings -->
 <a id='item-three'></a>
 ### 🔍 Procedimentos de análise de dados
 
