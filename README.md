@@ -20,7 +20,7 @@ Neste contexto, o objetivo geral deste projeto é **identificar e analisar os pr
 
 A partir de uma abordagem estatística, buscou-se construir um **perfil característico das fraudes**. Os procedimentos adotados envolveram **análises exploratórias, uso de estatísticas descritivas e realização de testes de hipóteses**.
 
-[Veja o projeto completo aqui](https://github.com/manoel-nto/Case_Fraude/blob/main/notebooks/case_fraude.ipynb).
+[Veja o projeto completo aqui](https://github.com/manoel-nto/Case_Fraude/blob/main/notebooks/analise-fraude.ipynb).
 
 ---
 
