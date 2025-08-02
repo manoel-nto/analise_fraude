@@ -1,13 +1,12 @@
 ## Fraude em Transações: Uma Análise Exploratória com Apoio Estatístico
 
 ### 📑 Índice
-- [Visão geral](#visão-geral)
-- [Fonte dos dados](#fonte-de-dados)
-- [Procedimentos de análise de dados](#procedimentos-de-análise-de-dados)
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Resultados](#resultados)
-- [Conclusões e recomendações](#conclusões-e-recomendações)
-- [Referências](#referências)
+- [Visão geral](#item-one)
+- [Fonte dos dados](#item-two)
+- [Procedimentos de análise de dados](#item-three)
+- [Ferramentas utilizadas](#item-four)
+- [Principais resultados](#item-five)
+- [Conclusões e recomendações](#item-six)
 
 ---
 
@@ -21,15 +20,7 @@ Neste contexto, o objetivo geral deste projeto é **identificar e analisar os pr
 
 A partir de uma abordagem estatística, buscou-se construir um **perfil característico das fraudes**. Os procedimentos adotados envolveram **análises exploratórias, uso de estatísticas descritivas e realização de testes de hipóteses**.
 
-Veja o [projeto completo aqui](https://github.com/manoel-nto/Case_Fraude/blob/main/notebooks/case_fraude.ipynb).
-
----
-
-<!-- headings -->
-<a id='item-two'></a>
-### 🗂️ Fonte de dados
-
-Os conjunto de dados foi obtido no PED (Preparatório para Entrevistas em Dados), da Prof.ª Renata Biaggi. Acesse: https://www.renatabiaggi.com/ped.
+[Veja o projeto completo aqui](https://github.com/manoel-nto/Case_Fraude/blob/main/notebooks/case_fraude.ipynb).
 
 ---
 
@@ -101,7 +92,7 @@ Rejeitar a hipótese nula
 
 <!-- headings -->
 <a id='item-six'></a>
-### 📝 Conclusões e Recomendações
+### 📝 Conclusões e recomendações
 
 Neste projeto, buscou-se identificar e analisar os *principais fatores associados à ocorrência de transações fraudulentas*, com o objetivo de traçar um *perfil característico dessas fraudes*. A análise trouxe evidências que corroboram ideias amplamente aceitas na gestão de fraudes, como:
 
